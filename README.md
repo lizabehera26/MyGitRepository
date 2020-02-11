@@ -1,2 +1,2 @@
-# MyGitRepository
-This is a Repository for my projects
+Hello Swagatika
+How are you?
